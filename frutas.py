@@ -7,5 +7,5 @@ for fruta in canasta:
         print("si esta en la lista" )
     else:
         print("no esta en la lista ")
-
+ciclo = ["diseño multimedia","base de datos ","programacion orientada a objetos","matetaticas","metodologia de desarrolo sw sofware"]        
     
